@@ -34,6 +34,6 @@ s.source_files = "ScannerPOC/**/*.{swift}"
 s.resources = "ScannerPOC/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
-s.swift_version = "4.2"
+s.swift_version = "5.3"
 
 end
