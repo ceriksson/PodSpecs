@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 # 1
 s.platform = :ios
-s.ios.deployment_target = '12.0'
+s.ios.deployment_target = '13.0'
 s.name = "ScannerPOC"
 s.summary = "ScannerPOC tests card scanning on iOS."
 s.requires_arc = true
